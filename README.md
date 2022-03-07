@@ -1,1 +1,1 @@
-# boilerplate-react
+# Boilerplate-React
