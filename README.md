@@ -1,3 +1,7 @@
 # Boilerplate-React
 
-Em desenvolvimento
+> Em desenvolvimento
+
+## Pendências
+
+-   [x] Teste
