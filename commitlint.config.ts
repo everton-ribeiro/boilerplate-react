@@ -1,5 +1,3 @@
-/* eslint-disable import/no-import-module-exports */
-// eslint-disable-next-line import/no-extraneous-dependencies
 import { UserConfig } from '@commitlint/types';
 
 const ERROR = 2;
