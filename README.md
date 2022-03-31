@@ -10,14 +10,16 @@
 -   [x] prettier
 -   [x] husky
 -   [x] commitlint
--   [] vite configuração import svg
--   [] jest e testing library
--   [] cypress
--   [] storybook
--   [] rotas com react router
--   [] stitches (css-in-js)
--   [] zustand (state management)
--   [] fetch com axios e react query
--   [] estrutura escalável de pasta do projeto
--   [] layout modelo
--   [] criar um Readme explicativo
+-   [ ] configuração vite-plugin-linter
+-   [ ] configuração vite-plugin-svgr
+-   [ ] jest e testing library
+-   [ ] cypress
+-   [ ] storybook
+-   [ ] rotas com react router
+-   [ ] stitches (css-in-js)
+-   [ ] zustand (state management)
+-   [ ] fetch com axios e react query
+-   [ ] estrutura escalável de pasta do projeto
+-   [ ] criar aplicação modelo com um layout bonito
+-   [ ] criar um Readme explicativo
+-   [ ] publicar a aplicação
