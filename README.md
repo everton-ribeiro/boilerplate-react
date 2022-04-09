@@ -10,8 +10,8 @@
 -   [x] prettier
 -   [x] husky
 -   [x] commitlint
--   [ ] configuração vite-plugin-linter
--   [ ] configuração vite-plugin-svgr
+-   [x] configuração vite-plugin-linter
+-   [x] configuração vite-plugin-svgr
 -   [ ] jest e testing library
 -   [ ] cypress
 -   [ ] storybook
