@@ -8,7 +8,7 @@
         "preview": "vite preview",
         "postinstall": "husky install",
         "lint:init": "eslint --init",
-        "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\"",
+        "lint": "vite-plugin-linter",
         "lint:fix": "eslint src/**/*.{js,jsx,ts,tsx} --fix",
         "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx}\""
     },
